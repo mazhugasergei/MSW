@@ -1,0 +1,6 @@
+{
+	"type": "module",
+	"dependencies": {
+		"msw": "^2.1.4"
+	}
+}
